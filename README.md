@@ -9,7 +9,8 @@ This simple Edge extensions allows to work efficiently with images. It adds a co
 
 ## TO DOs
 
-* Save image as...
+* Add icons
+* Save image as... (currently blocked, [downloads API](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) not yet implemented in Edge)
 * Add more languages
 * Review existing translations
 * Investigate more context menu options
