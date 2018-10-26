@@ -1,18 +1,19 @@
 {
-    "name": "Open Image Edge",
     "author": "Lubomir Sokolovsky",
+    "background": {
+        "scripts": "background.html",
+        "persistent": true
+    },
     "description": "Now you can open images in new tabs even in Edge!",
-    "version": "1.0",
     "icons": {
         "25": "images/color-changer25.png",
         "48": "images/color-changer48.png"
     },
+    "manifest_version": 1,
+    "name": "Open Image Edge",
     "permissions": [
         "activeTab",
         "contextMenus"
     ],
-    "background": {
-        "scripts": "background.html",
-        "persistent": true
-    }
+    "version": "1.0"
 }
