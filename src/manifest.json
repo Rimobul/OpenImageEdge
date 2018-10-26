@@ -9,9 +9,11 @@
     "default_locale": "en",
     "description": "Now you can open images in new tabs even in Edge!",
     "icons": {
+        "16": "images/oie16.png",
         "20": "images/oie20.png",
         "25": "images/oie25.png",
         "30": "images/oie30.png",
+        "32": "images/oie32.png",
         "40": "images/oie40.png",
         "48": "images/oie48.png",
         "128": "images/oie128.png"
