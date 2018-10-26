@@ -5,7 +5,7 @@ function requestOpenImage(info, tab) {
 
 browser.contextMenus.create({
     id: "open-image-extension",
-    title: "Open image in a new tab",
+    title: browser.i18n.getMessage("openImgNewTab"),
     contexts: ["image"],
     onclick: requestOpenImage
 });

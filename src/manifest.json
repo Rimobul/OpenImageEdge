@@ -1,9 +1,12 @@
 {
     "author": "Lubomir Sokolovsky",
     "background": {
-        "scripts": ["js/background.js"],
+        "scripts": [
+            "background.js"
+        ],
         "persistent": true
     },
+    "default_locale": "en",
     "description": "Now you can open images in new tabs even in Edge!",
     "icons": {
         "25": "images/color-changer25.png",
