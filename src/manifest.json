@@ -1,7 +1,7 @@
 {
     "author": "Lubomir Sokolovsky",
     "background": {
-        "page": "background.html",
+        "scripts": ["js/background.js"],
         "persistent": true
     },
     "description": "Now you can open images in new tabs even in Edge!",

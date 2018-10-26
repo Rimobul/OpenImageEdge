@@ -1,12 +1,11 @@
 function requestOpenImage(info, tab) {
-    var selection = info.selectionText;
-    var serviceCall = "https://www.google.com/#q=" + encodeURIComponent(selection);
-    browser.tabs.create({url: serviceCall});
+    var imgSrc = info.srcUrl;
+    browser.tabs.create({url: imgSrc});
 }
 
 browser.contextMenus.create({
-    id: "OpenImage",
+    id: "open-image-extension",
     title: "Open image in a new tab",
-    contexts: ['selection'],
+    contexts: ["image"],
     onclick: requestOpenImage
 });
