@@ -2,5 +2,9 @@
     "openImgNewTab": {
         "message": "Otvoriť obrázok na novej záložke",
         "description": "Name of the extension."
+    },
+    "copyImgAddress": {
+        "message": "Kopírovať adresu obrázku",
+        "description": "Name of the extension."
     }
 }

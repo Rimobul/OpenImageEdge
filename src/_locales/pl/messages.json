@@ -2,5 +2,9 @@
     "openImgNewTab": {
         "message": "Otwórz obraz w nowej karcie",
         "description": "Name of the extension."
+    },
+    "copyImgAddress": {
+        "message": "Skopiuj adres obrazu",
+        "description": "Name of the extension."
     }
 }
