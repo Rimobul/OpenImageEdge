@@ -1,10 +1,10 @@
-# Open Image Edge
+# Image Menu
 
 This simple Edge extensions allows to work efficiently with images. It adds a couple of popular context menu options.
 
 ## Implemented features
 
-* Open image in a new tab
+* Open image in new tab
 * Supported langueges: Czech, German, English, Hungarian, Polish, Slovak, Ukrainian
 
 ## TO DOs
