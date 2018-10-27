@@ -5,7 +5,7 @@ This simple Edge extensions allows to work efficiently with images. It adds a co
 ## Implemented features
 
 * Open image in new tab
-* Supported langueges: Belarussian, Czech, Dannish, German, English, French, Croatian, Hungarian, Italian, Luxemburgian, Lithuanian, Dutch, Polish, Romanian, Russian, Slovak, Slovenian, Serbian (both cyrilic and latin), Ukrainian
+* Supported langueges: Arabic, Azerbijani, Belarussian, Bulgarian, Bosnian, Czech, Dannish, German, English, Spanish, Estonian, Finish, French, Irish Gaelic, Croatian, Hungarian, Icelandic, Italian, Japanese, Georgian, Kazakh, Luxemburgian, Lithuanian, Latvian, Macedonian, Mongolic, Norwegian, Dutch, Polish, Romanian, Russian, Slovak, Slovenian, Albanian, Serbian (both cyrilic and latin), Swedish, Ukrainian, Chinese (simplified)
 
 ## TO DOs
 
