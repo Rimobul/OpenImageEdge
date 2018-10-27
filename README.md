@@ -5,13 +5,11 @@ This simple Edge extensions allows to work efficiently with images. It adds a co
 ## Implemented features
 
 * Open image in new tab
-* Supported langueges: Czech, German, English, Hungarian, Polish, Slovak, Ukrainian
+* Supported langueges: Belarussian, Czech, Dannish, German, English, French, Croatian, Hungarian, Italian, Luxemburgian, Lithuanian, Dutch, Polish, Romanian, Russian, Slovak, Slovenian, Serbian (both cyrilic and latin), Ukrainian
 
 ## TO DOs
 
-* Add icons
 * Save image as... (currently blocked, [downloads API](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) not yet implemented in Edge)
 * Add more languages
 * Review existing translations
 * Investigate more context menu options
-* Package and release
