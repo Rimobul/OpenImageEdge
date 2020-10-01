@@ -1,5 +1,11 @@
 # Image Menu
 
+## Archived
+
+This repo is archived, as Microsoft created its new Edge based on Chromium, which renders this extension obsolete.
+
+## Old description
+
 This simple Microsoft Edge extensions allows to work efficiently with images. It adds a couple of popular context menu options.
 
 ## Implemented features
